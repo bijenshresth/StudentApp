@@ -1,3 +1,6 @@
+Django based website with integration of Django REST Framework (REST API).
+Exposed the model with REST API in specific url.
+
 The url for the REST API - 'localhost:8025/api'
 
 Credentials for admin:
